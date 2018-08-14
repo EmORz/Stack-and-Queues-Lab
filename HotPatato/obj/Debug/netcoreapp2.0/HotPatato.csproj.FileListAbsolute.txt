@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\LabStacksAndQueues\HotPatato\bin\Debug\netcoreapp2.0\HotPatato.deps.json
+C:\Users\User\source\repos\LabStacksAndQueues\HotPatato\bin\Debug\netcoreapp2.0\HotPatato.runtimeconfig.json
+C:\Users\User\source\repos\LabStacksAndQueues\HotPatato\bin\Debug\netcoreapp2.0\HotPatato.runtimeconfig.dev.json
+C:\Users\User\source\repos\LabStacksAndQueues\HotPatato\bin\Debug\netcoreapp2.0\HotPatato.dll
+C:\Users\User\source\repos\LabStacksAndQueues\HotPatato\bin\Debug\netcoreapp2.0\HotPatato.pdb
+C:\Users\User\source\repos\LabStacksAndQueues\HotPatato\obj\Debug\netcoreapp2.0\HotPatato.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabStacksAndQueues\HotPatato\obj\Debug\netcoreapp2.0\HotPatato.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LabStacksAndQueues\HotPatato\obj\Debug\netcoreapp2.0\HotPatato.AssemblyInfo.cs
+C:\Users\User\source\repos\LabStacksAndQueues\HotPatato\obj\Debug\netcoreapp2.0\HotPatato.dll
+C:\Users\User\source\repos\LabStacksAndQueues\HotPatato\obj\Debug\netcoreapp2.0\HotPatato.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\LabStacksAndQueues\TrafficLight\bin\Debug\netcoreapp2.0\TrafficLight.deps.json
+C:\Users\User\source\repos\LabStacksAndQueues\TrafficLight\bin\Debug\netcoreapp2.0\TrafficLight.runtimeconfig.json
+C:\Users\User\source\repos\LabStacksAndQueues\TrafficLight\bin\Debug\netcoreapp2.0\TrafficLight.runtimeconfig.dev.json
+C:\Users\User\source\repos\LabStacksAndQueues\TrafficLight\bin\Debug\netcoreapp2.0\TrafficLight.dll
+C:\Users\User\source\repos\LabStacksAndQueues\TrafficLight\bin\Debug\netcoreapp2.0\TrafficLight.pdb
+C:\Users\User\source\repos\LabStacksAndQueues\TrafficLight\obj\Debug\netcoreapp2.0\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabStacksAndQueues\TrafficLight\obj\Debug\netcoreapp2.0\TrafficLight.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LabStacksAndQueues\TrafficLight\obj\Debug\netcoreapp2.0\TrafficLight.AssemblyInfo.cs
+C:\Users\User\source\repos\LabStacksAndQueues\TrafficLight\obj\Debug\netcoreapp2.0\TrafficLight.dll
+C:\Users\User\source\repos\LabStacksAndQueues\TrafficLight\obj\Debug\netcoreapp2.0\TrafficLight.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\bin\Debug\netcoreapp2.0\DecimalToBinaryConvert.deps.json
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\bin\Debug\netcoreapp2.0\DecimalToBinaryConvert.runtimeconfig.json
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\bin\Debug\netcoreapp2.0\DecimalToBinaryConvert.runtimeconfig.dev.json
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\bin\Debug\netcoreapp2.0\DecimalToBinaryConvert.dll
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\bin\Debug\netcoreapp2.0\DecimalToBinaryConvert.pdb
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\obj\Debug\netcoreapp2.0\DecimalToBinaryConvert.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\obj\Debug\netcoreapp2.0\DecimalToBinaryConvert.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\obj\Debug\netcoreapp2.0\DecimalToBinaryConvert.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\obj\Debug\netcoreapp2.0\DecimalToBinaryConvert.AssemblyInfo.cs
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\obj\Debug\netcoreapp2.0\DecimalToBinaryConvert.dll
+C:\Users\User\source\repos\LabStacksAndQueues\DecimalToBinaryConvert\obj\Debug\netcoreapp2.0\DecimalToBinaryConvert.pdb
